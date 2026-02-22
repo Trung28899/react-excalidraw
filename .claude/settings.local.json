@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:docs.excalidraw.com)",
+      "Bash(npm install:*)",
+      "Bash(npm run dev:*)",
+      "Bash(curl:*)",
+      "Bash(python3:*)",
+      "Bash(cd \"/Users/ttrinh/Desktop/Trung/Side Projects/react-excalidraw\" && npx shadcn@latest init -d 2>&1)",
+      "Bash(cd \"/Users/ttrinh/Desktop/Trung/Side Projects/react-excalidraw\" && npx shadcn@latest add select 2>&1)",
+      "Bash(tail:*)",
+      "Bash(uv run:*)"
+    ]
+  }
+}
